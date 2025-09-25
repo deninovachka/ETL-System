@@ -1,0 +1,14 @@
+﻿TransactionId,CustomerName,Amount,TransactionDate
+1,Anna Petrova,200,12/05/2024
+2,Ivan Ivanov,300,2024-05-14
+3,Maria Georgieva,300,2024-05-15
+4,Georgi Petrov,95,2024-05-17
+5,Ivan Ivanov,220,2024-05-14
+6,Invalid Data,abc,2024-05-19
+7,Petar Dimitrov,400,18-05-2024
+8,Nikolay Kolev,500,2024/05/20
+9,Stefan Ivanov,120,05.21.2024
+10,,180,2024-05-22
+11,Stefan Ivanov,420,05.22.2024
+12,Stefan Ivanov,120,05.21.2024
+13,Ivan Petkov,1000,12.12.2025
