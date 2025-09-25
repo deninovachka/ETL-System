@@ -31,5 +31,4 @@ TransactionId,CustomerName,Amount,TransactionDate
 1,John Doe,250.00,2024-05-14
 2,Jane Smith,300.50,2024-06-01
 ...
-1,John Doe,250.00,2024-05-14
-2,Jane Smith,300.50,2024-06-01
+
